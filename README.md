@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+about+Cybersecurity;Always+learning+new+technologies;Ethical+Hacking+Enthusiast" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g1c2Jua3J1a3d3bnBwbzZqMmV2MmRxYXUxcXRmdHRmdXJxaXVyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKE0xXyBS0KDIUo/giphy.webp"/>
+<img align="center" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g1c2Jua3J1a3d3bnBwbzZqMmV2MmRxYXUxcXRmdHRmdXJxaXVyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKE0xXyBS0KDIUo/giphy.webp"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Security+Projects+Developer;Learning+Penetration+Testing;Cybersecurity+Projects+Collaborator;Expert+in+Ethical+Hacking;Specialized+in+Network+Security" alt="Typing SVG" />
@@ -62,12 +62,11 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/Vasanthadithya Mundrathi
-" target="blank">
+  <a href="https://www.linkedin.com/in/vasanthadithya-mundrathi-84a54031a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
 
-  <a href="https://instagram.com/vasanthadithyam" target="blank">
+  <a href="https://www.instagram.com/vasanthadithya_m/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
