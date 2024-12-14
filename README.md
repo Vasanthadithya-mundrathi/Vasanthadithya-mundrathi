@@ -26,7 +26,7 @@
 🌟 About Me
 - 🔐 Cybersecurity Enthusiast
 - 🧑‍💻 Ethical Hacker
-- 🎓 Student at CBI
+- 🎓 Student at CBIT
 - 💡 Passionate about Network Security & Malware Analysis
 - 🛠️ CTF Player & Bug Bounty Hunter
 - 🌱 Currently learning Advanced Penetration Testing
