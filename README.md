@@ -23,7 +23,7 @@
 - 🔍 Specialized in Web Application Security                 
 - 💻 Python & Bash Scripting Enthusiast
 <div align="right">
-    HACKER.NAME 🎭 GODACE
+    HACKER.NAME 🎭 SHADOW
 </div>
 
 ---
