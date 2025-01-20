@@ -36,8 +36,6 @@
 #### 🖥️ Languages Used:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthadithya-mundrathi&layout=compact&theme=radical)
 
-#### 📝 Recent Commits:
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vasanthadithya-mundrathi&theme=radical)
 
 ---
 
