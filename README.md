@@ -31,13 +31,13 @@
 ### 📈 **Dynamic Stats**
 
 #### 🔄 Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=vasanthfeb13&color=green&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Vasanthadithya-mundrathi&color=green&style=flat-square)
 
 #### 🖥️ Languages Used:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthfeb13&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthadithya-mundrathi&layout=compact&theme=radical)
 
 #### 📝 Recent Commits:
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=vasanthfeb13&theme=radical)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vasanthadithya-mundrathi&theme=radical)
 
 ---
 
