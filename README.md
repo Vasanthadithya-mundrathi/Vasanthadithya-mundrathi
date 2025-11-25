@@ -20,11 +20,14 @@
 </p>
 
 <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vasanthadithya-mundrathi/Vasanthadithya-mundrathi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vasanthadithya-mundrathi/Vasanthadithya-mundrathi/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Vasanthadithya-mundrathi/Vasanthadithya-mundrathi/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<!-- Note: Snake animation will appear after merge when the GitHub Action runs -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vasanthadithya-mundrathi/Vasanthadithya-mundrathi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vasanthadithya-mundrathi/Vasanthadithya-mundrathi/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Vasanthadithya-mundrathi/Vasanthadithya-mundrathi/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -141,10 +144,18 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=H5X&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/Vasanthadithya-mundrathi/Z-Umbra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=Z-Umbra&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=Z-Umbra&theme=radical&hide_border=true&bg_color=0D1117&show_owner=true" />
 </a>
 
 </div>
+
+<!-- Z-Umbra Achievement Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_Avalanche_Team_1_Hyderabad-WINNER-red?style=for-the-badge&logo=avalanche&logoColor=white" alt="Avalanche Winner"/>
+  <a href="https://x.com/AvaxTeam1/status/1973980991804092810">
+    <img src="https://img.shields.io/badge/Z--Umbra-Privacy_Protocol_on_Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white" alt="Z-Umbra"/>
+  </a>
+</p>
 
 ---
 
@@ -159,6 +170,7 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 | 🌐 **Web Development** | 18+ | JavaScript, HTML, CSS, TypeScript |
 | ⚙️ **CLI/DevOps Tools** | 12+ | Python, Shell, Go |
 | 📊 **Data Science** | 5+ | Python, R, Jupyter |
+| ⛓️ **Blockchain/Web3** | 3+ | Kotlin, Go, Solidity |
 | 📱 **Mobile/Desktop** | 2+ | Kotlin, TypeScript |
 
 </div>
@@ -176,7 +188,7 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 | [**stock-analyzer**](https://github.com/Vasanthadithya-mundrathi/stock-analyzer) | 📈 Python-based stock analysis tool for Indian markets | `Python` |
 | [**SCS**](https://github.com/Vasanthadithya-mundrathi/SCS) | 🤖 AI-powered supply chain disruption detection | `Python` `AI` |
 | [**H5X**](https://github.com/Vasanthadithya-mundrathi/H5X) | 🔐 LLVM-based code obfuscation with AI & blockchain | `C++` `LLVM` |
-| [**Z-Umbra**](https://github.com/Vasanthadithya-mundrathi/Z-Umbra) | 📱 Kotlin-based mobile/desktop application | `Kotlin` |
+| [**Z-Umbra**](https://github.com/Vasanthadithya-mundrathi/Z-Umbra) | 🏆 **Avalanche Team 1 Hyderabad Winner** - Privacy connection protocol on Avalanche Fuji | `Kotlin` `Avalanche` `Web3` |
 | [**easygit-tool**](https://github.com/Vasanthadithya-mundrathi/easygit-tool) | 🚀 Intelligent Git tool with AI & TUI interface | `JavaScript` |
 | [**kali-mcp-server**](https://github.com/Vasanthadithya-mundrathi/kali-mcp-server) | 🛡️ Kali Linux MCP server integration | `JavaScript` |
 | [**GuardX**](https://github.com/Vasanthadithya-mundrathi/GuardX) | 🔒 Web application adaptive firewall | `HTML` `Python` |
