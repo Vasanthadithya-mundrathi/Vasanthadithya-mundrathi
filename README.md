@@ -6,7 +6,7 @@
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://github.com/Vasanthadithya-mundrathi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=👾+Welcome+to+my+Cyber+Lair...;🔐+Securing+the+Digital+World+One+Commit+at+a+Time;🚀+Building+57%2B+Projects+Across+AI%2C+Security+%26+Web;💻+Python+%7C+JavaScript+%7C+Go+%7C+TypeScript+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=👾+Welcome+to+my+Cyber+Lair...;🔐+Securing+the+Digital+World+One+Commit+at+a+Time;🚀+Building+61%2B+Projects+Across+AI%2C+Security+%26+Web;💻+Python+%7C+JavaScript+%7C+Go+%7C+C%2B%2B+%7C+Kotlin+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -89,7 +89,7 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,bash,html,css,r&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,cpp,kotlin,bash,html,css,r&theme=dark" />
 </p>
 
 ### 🔧 Frameworks & Tools
@@ -137,6 +137,12 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 <a href="https://github.com/Vasanthadithya-mundrathi/GuardX">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=GuardX&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
+<a href="https://github.com/Vasanthadithya-mundrathi/H5X">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=H5X&theme=radical&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/Vasanthadithya-mundrathi/Z-Umbra">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=Z-Umbra&theme=radical&hide_border=true&bg_color=0D1117" />
+</a>
 
 </div>
 
@@ -148,11 +154,12 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 | Category | Count | Languages |
 |:--------:|:-----:|:---------:|
-| 🤖 **AI/ML Projects** | 8+ | Python, Jupyter |
-| 🔐 **Security Tools** | 6+ | Python, JavaScript |
-| 🌐 **Web Development** | 15+ | JavaScript, HTML, CSS |
-| ⚙️ **CLI/DevOps Tools** | 10+ | Python, Shell, Go |
+| 🤖 **AI/ML Projects** | 10+ | Python, Jupyter |
+| 🔐 **Security Tools** | 8+ | Python, JavaScript, C++ |
+| 🌐 **Web Development** | 18+ | JavaScript, HTML, CSS, TypeScript |
+| ⚙️ **CLI/DevOps Tools** | 12+ | Python, Shell, Go |
 | 📊 **Data Science** | 5+ | Python, R, Jupyter |
+| 📱 **Mobile/Desktop** | 2+ | Kotlin, TypeScript |
 
 </div>
 
@@ -168,9 +175,13 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 |---------|-------------|------|
 | [**stock-analyzer**](https://github.com/Vasanthadithya-mundrathi/stock-analyzer) | 📈 Python-based stock analysis tool for Indian markets | `Python` |
 | [**SCS**](https://github.com/Vasanthadithya-mundrathi/SCS) | 🤖 AI-powered supply chain disruption detection | `Python` `AI` |
+| [**H5X**](https://github.com/Vasanthadithya-mundrathi/H5X) | 🔐 LLVM-based code obfuscation with AI & blockchain | `C++` `LLVM` |
+| [**Z-Umbra**](https://github.com/Vasanthadithya-mundrathi/Z-Umbra) | 📱 Kotlin-based mobile/desktop application | `Kotlin` |
 | [**easygit-tool**](https://github.com/Vasanthadithya-mundrathi/easygit-tool) | 🚀 Intelligent Git tool with AI & TUI interface | `JavaScript` |
 | [**kali-mcp-server**](https://github.com/Vasanthadithya-mundrathi/kali-mcp-server) | 🛡️ Kali Linux MCP server integration | `JavaScript` |
 | [**GuardX**](https://github.com/Vasanthadithya-mundrathi/GuardX) | 🔒 Web application adaptive firewall | `HTML` `Python` |
+| [**VeilDoc**](https://github.com/Vasanthadithya-mundrathi/VeilDoc) | 📄 Document processing tool | `Python` |
+| [**StudentHub**](https://github.com/Vasanthadithya-mundrathi/StudentHub) | 🎓 Student management platform | `TypeScript` |
 | [**OSINT-BROWSER**](https://github.com/Vasanthadithya-mundrathi/OSINT-BROWSER) | 🔍 Basic OSINT browser tool | `TypeScript` |
 | [**GiTalk**](https://github.com/Vasanthadithya-mundrathi/GiTalk) | 💬 Git conversation tool | `Python` |
 | [**FarmConnectHub**](https://github.com/Vasanthadithya-mundrathi/FarmConnectHub) | 🌾 Agriculture technology platform | `JavaScript` |
