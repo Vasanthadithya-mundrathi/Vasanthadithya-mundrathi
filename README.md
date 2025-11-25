@@ -62,10 +62,13 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 ## 📊 GitHub Analytics
 
+<!-- GitHub Stats Cards -->
 <p align="center">
   <a href="https://github.com/Vasanthadithya-mundrathi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasanthadithya-mundrathi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthadithya-mundrathi&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasanthadithya-mundrathi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Vasanthadithya-mundrathi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthadithya-mundrathi&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
   </a>
 </p>
 
@@ -87,6 +90,11 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 ---
 
 ## 🛠️ Tech Arsenal
+
+<!-- Animated Tech Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=⚡+My+Technology+Stack;🔧+Tools+I+Work+With+Daily" alt="Tech Stack Header"/>
+</p>
 
 <div align="center">
 
@@ -120,34 +128,58 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 ## 🚀 Featured Projects
 
+<!-- Animated Section Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=🏆+Project+Leaderboard;⭐+Ranked+by+Innovation+%26+Impact" alt="Projects Header"/>
+</p>
+
+<!-- Project Ranking Leaderboard -->
 <div align="center">
 
-<a href="https://github.com/Vasanthadithya-mundrathi/stock-analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=stock-analyzer&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Vasanthadithya-mundrathi/SCS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=SCS&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Vasanthadithya-mundrathi/easygit-tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=easygit-tool&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Vasanthadithya-mundrathi/kali-mcp-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=kali-mcp-server&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Vasanthadithya-mundrathi/cognitive-resonance-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=cognitive-resonance-analysis&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Vasanthadithya-mundrathi/GuardX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=GuardX&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Vasanthadithya-mundrathi/H5X">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=H5X&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Vasanthadithya-mundrathi/Z-Umbra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=Z-Umbra&theme=radical&hide_border=true&bg_color=0D1117&show_owner=true" />
-</a>
+### 🥇 **TIER 1: FLAGSHIP PROJECTS**
+*Maximum Innovation • High Complexity • Production Ready*
+
+| Rank | Project | Category | Score | Highlights |
+|:----:|:--------|:--------:|:-----:|:-----------|
+| 🥇 | [**Z-Umbra**](https://github.com/Vasanthadithya-mundrathi/Z-Umbra) | `Web3` `Privacy` | 98/100 | 🏆 **Avalanche Winner** • Privacy Protocol • Blockchain |
+| 🥈 | [**H5X**](https://github.com/Vasanthadithya-mundrathi/H5X) | `Security` `AI` | 95/100 | LLVM Obfuscation • AI-Powered • Enterprise-Grade |
+| 🥉 | [**SCS**](https://github.com/Vasanthadithya-mundrathi/SCS) | `AI/ML` | 92/100 | Supply Chain AI • Disruption Detection • Production |
+
+### 🎯 **TIER 2: HIGH IMPACT TOOLS**
+*Innovative • Practical • Community Valuable*
+
+| Rank | Project | Category | Score | Highlights |
+|:----:|:--------|:--------:|:-----:|:-----------|
+| 4️⃣ | [**kali-mcp-server**](https://github.com/Vasanthadithya-mundrathi/kali-mcp-server) | `Security` | 88/100 | Kali Linux Integration • MCP Server • Automation |
+| 5️⃣ | [**GuardX**](https://github.com/Vasanthadithya-mundrathi/GuardX) | `Security` | 85/100 | Adaptive Firewall • Web Protection • Real-time |
+| 6️⃣ | [**easygit-tool**](https://github.com/Vasanthadithya-mundrathi/easygit-tool) | `DevOps` | 82/100 | AI-Powered Git • TUI Interface • Developer DX |
+| 7️⃣ | [**cognitive-resonance-analysis**](https://github.com/Vasanthadithya-mundrathi/cognitive-resonance-analysis) | `AI/ML` | 80/100 | Truth Detection AI • OpenAI Hackathon |
+
+### 💼 **TIER 3: SPECIALIZED SOLUTIONS**
+*Domain Specific • Utility Focused • Solid Implementation*
+
+| Rank | Project | Category | Score | Highlights |
+|:----:|:--------|:--------:|:-----:|:-----------|
+| 8️⃣ | [**stock-analyzer**](https://github.com/Vasanthadithya-mundrathi/stock-analyzer) | `Finance` | 75/100 | Indian Markets • Data Analysis • Python |
+| 9️⃣ | [**CHAIN-CRAFT**](https://github.com/Vasanthadithya-mundrathi/CHAIN-CRAFT) | `Blockchain` | 72/100 | Blockchain Dev • Go Lang • Web3 |
+| 🔟 | [**VeilDoc**](https://github.com/Vasanthadithya-mundrathi/VeilDoc) | `Utility` | 70/100 | Document Processing • Privacy • Python |
 
 </div>
+
+<!-- Ranking Criteria -->
+<details>
+<summary>📊 <b>Ranking Criteria (Click to expand)</b></summary>
+
+| Criteria | Weight | Description |
+|:---------|:------:|:------------|
+| 🧠 **Innovation** | 25% | Novel approach, unique solutions |
+| 💪 **Code Complexity** | 20% | Technical depth, architecture |
+| 🎨 **Presentation** | 15% | Documentation, UI/UX |
+| 🎯 **Purpose** | 20% | Solves real problems |
+| 🔮 **Vision** | 10% | Future potential, scalability |
+| 🏆 **Recognition** | 10% | Awards, community adoption |
+
+</details>
 
 <!-- Z-Umbra Achievement Badge -->
 <p align="center">
