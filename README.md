@@ -97,7 +97,7 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 <!-- Animated Skills Bar -->
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=github_dark&line1=python,Python,61DAFB;javascript,JavaScript,F7DF1E;typescript,TypeScript,3178C6;go,Go,00ADD8&line2=docker,Docker,2496ED;linux,Linux,FCC624;git,Git,F05032;react,React,61DAFB" alt="Tech Stack"/>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=github_dark&line1=python,Python,3776AB;javascript,JavaScript,F7DF1E;typescript,TypeScript,3178C6;go,Go,00ADD8&line2=docker,Docker,2496ED;linux,Linux,FCC624;git,Git,F05032;react,React,61DAFB" alt="Tech Stack"/>
 </p>
 
 <div align="center">
