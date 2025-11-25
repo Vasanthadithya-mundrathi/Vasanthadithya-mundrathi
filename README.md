@@ -64,7 +64,7 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 <!-- GitHub Stats using reliable badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=Total%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Vasanthadithya-mundrathi&style=for-the-badge&logo=github" alt="Total Stars"/>
+  <img src="https://img.shields.io/github/stars/Vasanthadithya-mundrathi?style=for-the-badge&logo=github&color=00D9FF&label=Total%20Stars" alt="Total Stars"/>
   <img src="https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=Repositories&query=%24.public_repos&url=https://api.github.com/users/Vasanthadithya-mundrathi&style=for-the-badge&logo=github" alt="Repos"/>
   <img src="https://img.shields.io/github/followers/Vasanthadithya-mundrathi?style=for-the-badge&logo=github&color=blueviolet&label=Followers" alt="Followers"/>
 </p>
@@ -138,28 +138,28 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 | Rank | Project | Category | Score | Highlights |
 |:----:|:--------|:--------:|:-----:|:-----------|
-| 🥇 | [**Z-Umbra**](https://github.com/Vasanthadithya-mundrathi/Z-Umbra) | `Web3` `Privacy` | ⭐⭐⭐⭐⭐ | 🏆 **Avalanche Winner** • Privacy Protocol • Blockchain |
-| 🥈 | [**H5X**](https://github.com/Vasanthadithya-mundrathi/H5X) | `Security` `AI` | ⭐⭐⭐⭐⭐ | LLVM Obfuscation • AI-Powered • Enterprise-Grade |
-| 🥉 | [**SCS**](https://github.com/Vasanthadithya-mundrathi/SCS) | `AI/ML` | ⭐⭐⭐⭐½ | Supply Chain AI • Disruption Detection • Production |
+| 🥇 | [**Z-Umbra**](https://github.com/Vasanthadithya-mundrathi/Z-Umbra) | `Web3` `Privacy` | 98/100 | 🏆 **Avalanche Winner** • Privacy Protocol • Blockchain |
+| 🥈 | [**H5X**](https://github.com/Vasanthadithya-mundrathi/H5X) | `Security` `AI` | 95/100 | LLVM Obfuscation • AI-Powered • Enterprise-Grade |
+| 🥉 | [**SCS**](https://github.com/Vasanthadithya-mundrathi/SCS) | `AI/ML` | 92/100 | Supply Chain AI • Disruption Detection • Production |
 
 ### 🎯 **TIER 2: HIGH IMPACT TOOLS**
 *Innovative • Practical • Community Valuable*
 
 | Rank | Project | Category | Score | Highlights |
 |:----:|:--------|:--------:|:-----:|:-----------|
-| 4️⃣ | [**kali-mcp-server**](https://github.com/Vasanthadithya-mundrathi/kali-mcp-server) | `Security` | ⭐⭐⭐⭐ | Kali Linux Integration • MCP Server • Automation |
-| 5️⃣ | [**GuardX**](https://github.com/Vasanthadithya-mundrathi/GuardX) | `Security` | ⭐⭐⭐⭐ | Adaptive Firewall • Web Protection • Real-time |
-| 6️⃣ | [**easygit-tool**](https://github.com/Vasanthadithya-mundrathi/easygit-tool) | `DevOps` | ⭐⭐⭐⭐ | AI-Powered Git • TUI Interface • Developer DX |
-| 7️⃣ | [**cognitive-resonance-analysis**](https://github.com/Vasanthadithya-mundrathi/cognitive-resonance-analysis) | `AI/ML` | ⭐⭐⭐⭐ | Truth Detection AI • OpenAI Hackathon 2025 |
+| 4️⃣ | [**kali-mcp-server**](https://github.com/Vasanthadithya-mundrathi/kali-mcp-server) | `Security` | 88/100 | Kali Linux Integration • MCP Server • Automation |
+| 5️⃣ | [**GuardX**](https://github.com/Vasanthadithya-mundrathi/GuardX) | `Security` | 85/100 | Adaptive Firewall • Web Protection • Real-time |
+| 6️⃣ | [**easygit-tool**](https://github.com/Vasanthadithya-mundrathi/easygit-tool) | `DevOps` | 82/100 | AI-Powered Git • TUI Interface • Developer DX |
+| 7️⃣ | [**cognitive-resonance-analysis**](https://github.com/Vasanthadithya-mundrathi/cognitive-resonance-analysis) | `AI/ML` | 80/100 | Truth Detection AI • OpenAI Hackathon |
 
 ### 💼 **TIER 3: SPECIALIZED SOLUTIONS**
 *Domain Specific • Utility Focused • Solid Implementation*
 
 | Rank | Project | Category | Score | Highlights |
 |:----:|:--------|:--------:|:-----:|:-----------|
-| 8️⃣ | [**stock-analyzer**](https://github.com/Vasanthadithya-mundrathi/stock-analyzer) | `Finance` | ⭐⭐⭐½ | Indian Markets • Data Analysis • Python |
-| 9️⃣ | [**CHAIN-CRAFT**](https://github.com/Vasanthadithya-mundrathi/CHAIN-CRAFT) | `Blockchain` | ⭐⭐⭐½ | Blockchain Dev • Go Lang • Web3 |
-| 🔟 | [**VeilDoc**](https://github.com/Vasanthadithya-mundrathi/VeilDoc) | `Utility` | ⭐⭐⭐ | Document Processing • Privacy • Python |
+| 8️⃣ | [**stock-analyzer**](https://github.com/Vasanthadithya-mundrathi/stock-analyzer) | `Finance` | 75/100 | Indian Markets • Data Analysis • Python |
+| 9️⃣ | [**CHAIN-CRAFT**](https://github.com/Vasanthadithya-mundrathi/CHAIN-CRAFT) | `Blockchain` | 72/100 | Blockchain Dev • Go Lang • Web3 |
+| 🔟 | [**VeilDoc**](https://github.com/Vasanthadithya-mundrathi/VeilDoc) | `Utility` | 70/100 | Document Processing • Privacy • Python |
 
 </div>
 
