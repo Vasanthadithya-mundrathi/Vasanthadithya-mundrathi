@@ -6,7 +6,7 @@
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://github.com/Vasanthadithya-mundrathi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=👾+Welcome+to+my+Cyber+Lair...;🔐+Securing+the+Digital+World+One+Commit+at+a+Time;🚀+Building+61%2B+Projects+Across+AI%2C+Security+%26+Web;💻+Python+%7C+JavaScript+%7C+Go+%7C+C%2B%2B+%7C+Kotlin+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=👾+Welcome+to+my+Cyber+Lair...;🔐+Securing+the+Digital+World+One+Commit+at+a+Time" alt="Typing SVG" />
   </a>
 </p>
 
