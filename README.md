@@ -62,16 +62,19 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 ## 📊 GitHub Analytics
 
-<!-- GitHub Stats using reliable badges -->
+<!-- GitHub Stats Cards -->
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Vasanthadithya-mundrathi?style=for-the-badge&logo=github&color=00D9FF&label=Total%20Stars" alt="Total Stars"/>
-  <img src="https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=Repositories&query=%24.public_repos&url=https://api.github.com/users/Vasanthadithya-mundrathi&style=for-the-badge&logo=github" alt="Repos"/>
-  <img src="https://img.shields.io/github/followers/Vasanthadithya-mundrathi?style=for-the-badge&logo=github&color=blueviolet&label=Followers" alt="Followers"/>
+  <a href="https://github.com/Vasanthadithya-mundrathi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasanthadithya-mundrathi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Vasanthadithya-mundrathi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthadithya-mundrathi&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  </a>
 </p>
 
-<!-- Streak Stats - Using streak-stats.demolab.com (more reliable) -->
+<!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vasanthadithya-mundrathi&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasanthadithya-mundrathi&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </p>
 
 <!-- Activity Graph -->
