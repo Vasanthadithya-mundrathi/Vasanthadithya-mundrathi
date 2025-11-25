@@ -62,18 +62,16 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 ## 📊 GitHub Analytics
 
+<!-- GitHub Stats using reliable badges -->
 <p align="center">
-  <a href="https://github.com/Vasanthadithya-mundrathi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasanthadithya-mundrathi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Vasanthadithya-mundrathi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthadithya-mundrathi&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&label=Total%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Vasanthadithya-mundrathi&style=for-the-badge&logo=github" alt="Total Stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=Repositories&query=%24.public_repos&url=https://api.github.com/users/Vasanthadithya-mundrathi&style=for-the-badge&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/github/followers/Vasanthadithya-mundrathi?style=for-the-badge&logo=github&color=blueviolet&label=Followers" alt="Followers"/>
 </p>
 
-<!-- Streak Stats -->
+<!-- Streak Stats - Using streak-stats.demolab.com (more reliable) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasanthadithya-mundrathi&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Vasanthadithya-mundrathi&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </p>
 
 <!-- Activity Graph -->
@@ -93,11 +91,6 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 <!-- Animated Tech Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=⚡+My+Technology+Stack;🔧+Tools+I+Work+With+Daily" alt="Tech Stack Header"/>
-</p>
-
-<!-- Animated Skills Bar -->
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=github_dark&line1=python,Python,3776AB;javascript,JavaScript,F7DF1E;typescript,TypeScript,3178C6;go,Go,00ADD8&line2=docker,Docker,2496ED;linux,Linux,FCC624;git,Git,F05032;react,React,61DAFB" alt="Tech Stack"/>
 </p>
 
 <div align="center">
@@ -134,44 +127,56 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 <!-- Animated Section Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=🔥+Check+out+my+highlighted+projects!;🛠️+Built+with+passion+and+code" alt="Projects Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=🏆+Project+Leaderboard;⭐+Ranked+by+Innovation+%26+Impact" alt="Projects Header"/>
 </p>
 
+<!-- Project Ranking Leaderboard -->
 <div align="center">
-  <a href="https://github.com/Vasanthadithya-mundrathi/stock-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=stock-analyzer&theme=radical&hide_border=true&bg_color=0D1117" alt="stock-analyzer"/>
-  </a>
-  <a href="https://github.com/Vasanthadithya-mundrathi/SCS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=SCS&theme=radical&hide_border=true&bg_color=0D1117" alt="SCS"/>
-  </a>
+
+### 🥇 **TIER 1: FLAGSHIP PROJECTS**
+*Maximum Innovation • High Complexity • Production Ready*
+
+| Rank | Project | Category | Score | Highlights |
+|:----:|:--------|:--------:|:-----:|:-----------|
+| 🥇 | [**Z-Umbra**](https://github.com/Vasanthadithya-mundrathi/Z-Umbra) | `Web3` `Privacy` | ⭐⭐⭐⭐⭐ | 🏆 **Avalanche Winner** • Privacy Protocol • Blockchain |
+| 🥈 | [**H5X**](https://github.com/Vasanthadithya-mundrathi/H5X) | `Security` `AI` | ⭐⭐⭐⭐⭐ | LLVM Obfuscation • AI-Powered • Enterprise-Grade |
+| 🥉 | [**SCS**](https://github.com/Vasanthadithya-mundrathi/SCS) | `AI/ML` | ⭐⭐⭐⭐½ | Supply Chain AI • Disruption Detection • Production |
+
+### 🎯 **TIER 2: HIGH IMPACT TOOLS**
+*Innovative • Practical • Community Valuable*
+
+| Rank | Project | Category | Score | Highlights |
+|:----:|:--------|:--------:|:-----:|:-----------|
+| 4️⃣ | [**kali-mcp-server**](https://github.com/Vasanthadithya-mundrathi/kali-mcp-server) | `Security` | ⭐⭐⭐⭐ | Kali Linux Integration • MCP Server • Automation |
+| 5️⃣ | [**GuardX**](https://github.com/Vasanthadithya-mundrathi/GuardX) | `Security` | ⭐⭐⭐⭐ | Adaptive Firewall • Web Protection • Real-time |
+| 6️⃣ | [**easygit-tool**](https://github.com/Vasanthadithya-mundrathi/easygit-tool) | `DevOps` | ⭐⭐⭐⭐ | AI-Powered Git • TUI Interface • Developer DX |
+| 7️⃣ | [**cognitive-resonance-analysis**](https://github.com/Vasanthadithya-mundrathi/cognitive-resonance-analysis) | `AI/ML` | ⭐⭐⭐⭐ | Truth Detection AI • OpenAI Hackathon 2025 |
+
+### 💼 **TIER 3: SPECIALIZED SOLUTIONS**
+*Domain Specific • Utility Focused • Solid Implementation*
+
+| Rank | Project | Category | Score | Highlights |
+|:----:|:--------|:--------:|:-----:|:-----------|
+| 8️⃣ | [**stock-analyzer**](https://github.com/Vasanthadithya-mundrathi/stock-analyzer) | `Finance` | ⭐⭐⭐½ | Indian Markets • Data Analysis • Python |
+| 9️⃣ | [**CHAIN-CRAFT**](https://github.com/Vasanthadithya-mundrathi/CHAIN-CRAFT) | `Blockchain` | ⭐⭐⭐½ | Blockchain Dev • Go Lang • Web3 |
+| 🔟 | [**VeilDoc**](https://github.com/Vasanthadithya-mundrathi/VeilDoc) | `Utility` | ⭐⭐⭐ | Document Processing • Privacy • Python |
+
 </div>
 
-<div align="center">
-  <a href="https://github.com/Vasanthadithya-mundrathi/easygit-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=easygit-tool&theme=radical&hide_border=true&bg_color=0D1117" alt="easygit-tool"/>
-  </a>
-  <a href="https://github.com/Vasanthadithya-mundrathi/kali-mcp-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=kali-mcp-server&theme=radical&hide_border=true&bg_color=0D1117" alt="kali-mcp-server"/>
-  </a>
-</div>
+<!-- Ranking Criteria -->
+<details>
+<summary>📊 <b>Ranking Criteria (Click to expand)</b></summary>
 
-<div align="center">
-  <a href="https://github.com/Vasanthadithya-mundrathi/cognitive-resonance-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=cognitive-resonance-analysis&theme=radical&hide_border=true&bg_color=0D1117" alt="cognitive-resonance-analysis"/>
-  </a>
-  <a href="https://github.com/Vasanthadithya-mundrathi/GuardX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=GuardX&theme=radical&hide_border=true&bg_color=0D1117" alt="GuardX"/>
-  </a>
-</div>
+| Criteria | Weight | Description |
+|:---------|:------:|:------------|
+| 🧠 **Innovation** | 25% | Novel approach, unique solutions |
+| 💪 **Code Complexity** | 20% | Technical depth, architecture |
+| 🎨 **Presentation** | 15% | Documentation, UI/UX |
+| 🎯 **Purpose** | 20% | Solves real problems |
+| 🔮 **Vision** | 10% | Future potential, scalability |
+| 🏆 **Recognition** | 10% | Awards, community adoption |
 
-<div align="center">
-  <a href="https://github.com/Vasanthadithya-mundrathi/H5X">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=H5X&theme=radical&hide_border=true&bg_color=0D1117" alt="H5X"/>
-  </a>
-  <a href="https://github.com/Vasanthadithya-mundrathi/Z-Umbra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=Z-Umbra&theme=radical&hide_border=true&bg_color=0D1117&show_owner=true" alt="Z-Umbra"/>
-  </a>
-</div>
+</details>
 
 <!-- Z-Umbra Achievement Badge -->
 <p align="center">
