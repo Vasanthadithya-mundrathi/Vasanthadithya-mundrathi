@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center"> Hi 👋 I'm Vasanthadithya </h2>
-<h3 align="center">Founder & CEO BSmart.ai |🛡️ Cybersecurity Enthusiast | 🎯 Ethical Hacker | 🎓 Student at CBIT</h3>
+<h3 align="center">🛡️ Cybersecurity Enthusiast | 🎯 Ethical Hacker | 🎓 Student at CBIT</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+about+Cybersecurity;Always+learning+new+technologies;Ethical+Hacking+Enthusiast" alt="Typing SVG" />
