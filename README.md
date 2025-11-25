@@ -64,8 +64,10 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 <p align="center">
   <a href="https://github.com/Vasanthadithya-mundrathi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasanthadithya-mundrathi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthadithya-mundrathi&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasanthadithya-mundrathi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Vasanthadithya-mundrathi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthadithya-mundrathi&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
   </a>
 </p>
 
@@ -87,6 +89,16 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 ---
 
 ## 🛠️ Tech Arsenal
+
+<!-- Animated Tech Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=⚡+My+Technology+Stack;🔧+Tools+I+Work+With+Daily" alt="Tech Stack Header"/>
+</p>
+
+<!-- Animated Skills Bar -->
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=github_dark&line1=python,Python,61DAFB;javascript,JavaScript,F7DF1E;typescript,TypeScript,3178C6;go,Go,00ADD8&line2=docker,Docker,2496ED;linux,Linux,FCC624;git,Git,F05032;react,React,61DAFB" alt="Tech Stack"/>
+</p>
 
 <div align="center">
 
@@ -120,33 +132,45 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 ## 🚀 Featured Projects
 
+<!-- Animated Section Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=🔥+Check+out+my+highlighted+projects!;🛠️+Built+with+passion+and+code" alt="Projects Header"/>
+</p>
+
 <div align="center">
+  <a href="https://github.com/Vasanthadithya-mundrathi/stock-analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=stock-analyzer&theme=radical&hide_border=true&bg_color=0D1117" alt="stock-analyzer"/>
+  </a>
+  <a href="https://github.com/Vasanthadithya-mundrathi/SCS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=SCS&theme=radical&hide_border=true&bg_color=0D1117" alt="SCS"/>
+  </a>
+</div>
 
-<a href="https://github.com/Vasanthadithya-mundrathi/stock-analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=stock-analyzer&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Vasanthadithya-mundrathi/SCS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=SCS&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Vasanthadithya-mundrathi/easygit-tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=easygit-tool&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Vasanthadithya-mundrathi/kali-mcp-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=kali-mcp-server&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Vasanthadithya-mundrathi/cognitive-resonance-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=cognitive-resonance-analysis&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Vasanthadithya-mundrathi/GuardX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=GuardX&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Vasanthadithya-mundrathi/H5X">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=H5X&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Vasanthadithya-mundrathi/Z-Umbra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=Z-Umbra&theme=radical&hide_border=true&bg_color=0D1117&show_owner=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/Vasanthadithya-mundrathi/easygit-tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=easygit-tool&theme=radical&hide_border=true&bg_color=0D1117" alt="easygit-tool"/>
+  </a>
+  <a href="https://github.com/Vasanthadithya-mundrathi/kali-mcp-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=kali-mcp-server&theme=radical&hide_border=true&bg_color=0D1117" alt="kali-mcp-server"/>
+  </a>
+</div>
 
+<div align="center">
+  <a href="https://github.com/Vasanthadithya-mundrathi/cognitive-resonance-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=cognitive-resonance-analysis&theme=radical&hide_border=true&bg_color=0D1117" alt="cognitive-resonance-analysis"/>
+  </a>
+  <a href="https://github.com/Vasanthadithya-mundrathi/GuardX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=GuardX&theme=radical&hide_border=true&bg_color=0D1117" alt="GuardX"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Vasanthadithya-mundrathi/H5X">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=H5X&theme=radical&hide_border=true&bg_color=0D1117" alt="H5X"/>
+  </a>
+  <a href="https://github.com/Vasanthadithya-mundrathi/Z-Umbra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasanthadithya-mundrathi&repo=Z-Umbra&theme=radical&hide_border=true&bg_color=0D1117&show_owner=true" alt="Z-Umbra"/>
+  </a>
 </div>
 
 <!-- Z-Umbra Achievement Badge -->
