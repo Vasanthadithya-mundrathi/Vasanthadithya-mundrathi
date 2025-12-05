@@ -244,6 +244,9 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasanthadithya-mundrathi)
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C3C?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Vasanthadithya)
+
+
 </div>
 
 ---
