@@ -126,61 +126,6 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- Animated Section Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=🏆+Project+Leaderboard;⭐+Ranked+by+Innovation+%26+Impact" alt="Projects Header"/>
-</p>
-
-<!-- Project Ranking Leaderboard -->
-<div align="center">
-
-### 🥇 **TIER 1: FLAGSHIP PROJECTS**
-*Maximum Innovation • High Complexity • Production Ready*
-
-| Rank | Project | Category | Score | Highlights |
-|:----:|:--------|:--------:|:-----:|:-----------|
-| 🥇 | [**Z-Umbra**](https://github.com/Vasanthadithya-mundrathi/Z-Umbra) | `Web3` `Privacy` | 98/100 | 🏆 **Avalanche Winner** • Privacy Protocol • Blockchain |
-| 🥈 | [**H5X**](https://github.com/Vasanthadithya-mundrathi/H5X) | `Security` `AI` | 95/100 | LLVM Obfuscation • AI-Powered • Enterprise-Grade |
-| 🥉 | [**SCS**](https://github.com/Vasanthadithya-mundrathi/SCS) | `AI/ML` | 92/100 | Supply Chain AI • Disruption Detection • Production |
-
-### 🎯 **TIER 2: HIGH IMPACT TOOLS**
-*Innovative • Practical • Community Valuable*
-
-| Rank | Project | Category | Score | Highlights |
-|:----:|:--------|:--------:|:-----:|:-----------|
-| 4️⃣ | [**kali-mcp-server**](https://github.com/Vasanthadithya-mundrathi/kali-mcp-server) | `Security` | 88/100 | Kali Linux Integration • MCP Server • Automation |
-| 5️⃣ | [**GuardX**](https://github.com/Vasanthadithya-mundrathi/GuardX) | `Security` | 85/100 | Adaptive Firewall • Web Protection • Real-time |
-| 6️⃣ | [**easygit-tool**](https://github.com/Vasanthadithya-mundrathi/easygit-tool) | `DevOps` | 82/100 | AI-Powered Git • TUI Interface • Developer DX |
-| 7️⃣ | [**cognitive-resonance-analysis**](https://github.com/Vasanthadithya-mundrathi/cognitive-resonance-analysis) | `AI/ML` | 80/100 | Truth Detection AI • OpenAI Hackathon |
-
-### 💼 **TIER 3: SPECIALIZED SOLUTIONS**
-*Domain Specific • Utility Focused • Solid Implementation*
-
-| Rank | Project | Category | Score | Highlights |
-|:----:|:--------|:--------:|:-----:|:-----------|
-| 8️⃣ | [**stock-analyzer**](https://github.com/Vasanthadithya-mundrathi/stock-analyzer) | `Finance` | 75/100 | Indian Markets • Data Analysis • Python |
-| 9️⃣ | [**CHAIN-CRAFT**](https://github.com/Vasanthadithya-mundrathi/CHAIN-CRAFT) | `Blockchain` | 72/100 | Blockchain Dev • Go Lang • Web3 |
-| 🔟 | [**VeilDoc**](https://github.com/Vasanthadithya-mundrathi/VeilDoc) | `Utility` | 70/100 | Document Processing • Privacy • Python |
-
-</div>
-
-<!-- Ranking Criteria -->
-<details>
-<summary>📊 <b>Ranking Criteria (Click to expand)</b></summary>
-
-| Criteria | Weight | Description |
-|:---------|:------:|:------------|
-| 🧠 **Innovation** | 25% | Novel approach, unique solutions |
-| 💪 **Code Complexity** | 20% | Technical depth, architecture |
-| 🎨 **Presentation** | 15% | Documentation, UI/UX |
-| 🎯 **Purpose** | 20% | Solves real problems |
-| 🔮 **Vision** | 10% | Future potential, scalability |
-| 🏆 **Recognition** | 10% | Awards, community adoption |
-
-</details>
-
 <!-- Z-Umbra Achievement Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/🏆_Avalanche_Team_1_Hyderabad-WINNER-red?style=for-the-badge&logo=avalanche&logoColor=white" alt="Avalanche Winner"/>
@@ -191,48 +136,11 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 ---
 
-## 📈 Repository Overview
-
-<div align="center">
-
-| Category | Count | Languages |
-|:--------:|:-----:|:---------:|
-| 🤖 **AI/ML Projects** | 10+ | Python, Jupyter |
-| 🔐 **Security Tools** | 8+ | Python, JavaScript, C++ |
-| 🌐 **Web Development** | 18+ | JavaScript, HTML, CSS, TypeScript |
-| ⚙️ **CLI/DevOps Tools** | 12+ | Python, Shell, Go |
-| 📊 **Data Science** | 5+ | Python, R, Jupyter |
-| ⛓️ **Blockchain/Web3** | 3+ | Kotlin, Go, Solidity |
-| 📱 **Mobile/Desktop** | 2+ | Kotlin, TypeScript |
-
-</div>
-
 ### 📂 Total Public Repositories
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/Vasanthadithya-mundrathi&style=for-the-badge&logo=github" alt="Repo Count"/>
 </p>
 
-<details>
-<summary>🔥 Click to see more project highlights</summary>
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**stock-analyzer**](https://github.com/Vasanthadithya-mundrathi/stock-analyzer) | 📈 Python-based stock analysis tool for Indian markets | `Python` |
-| [**SCS**](https://github.com/Vasanthadithya-mundrathi/SCS) | 🤖 AI-powered supply chain disruption detection | `Python` `AI` |
-| [**H5X**](https://github.com/Vasanthadithya-mundrathi/H5X) | 🔐 LLVM-based code obfuscation with AI & blockchain | `C++` `LLVM` |
-| [**Z-Umbra**](https://github.com/Vasanthadithya-mundrathi/Z-Umbra) | 🏆 **Avalanche Team 1 Hyderabad Winner** - Privacy connection protocol on Avalanche Fuji | `Kotlin` `Avalanche` `Web3` |
-| [**easygit-tool**](https://github.com/Vasanthadithya-mundrathi/easygit-tool) | 🚀 Intelligent Git tool with AI & TUI interface | `JavaScript` |
-| [**kali-mcp-server**](https://github.com/Vasanthadithya-mundrathi/kali-mcp-server) | 🛡️ Kali Linux MCP server integration | `JavaScript` |
-| [**GuardX**](https://github.com/Vasanthadithya-mundrathi/GuardX) | 🔒 Web application adaptive firewall | `HTML` `Python` |
-| [**VeilDoc**](https://github.com/Vasanthadithya-mundrathi/VeilDoc) | 📄 Document processing tool | `Python` |
-| [**StudentHub**](https://github.com/Vasanthadithya-mundrathi/StudentHub) | 🎓 Student management platform | `TypeScript` |
-| [**OSINT-BROWSER**](https://github.com/Vasanthadithya-mundrathi/OSINT-BROWSER) | 🔍 Basic OSINT browser tool | `TypeScript` |
-| [**GiTalk**](https://github.com/Vasanthadithya-mundrathi/GiTalk) | 💬 Git conversation tool | `Python` |
-| [**FarmConnectHub**](https://github.com/Vasanthadithya-mundrathi/FarmConnectHub) | 🌾 Agriculture technology platform | `JavaScript` |
-| [**CHAIN-CRAFT**](https://github.com/Vasanthadithya-mundrathi/CHAIN-CRAFT) | ⛓️ Blockchain development project | `Go` |
-| [**cognitive-resonance-analysis**](https://github.com/Vasanthadithya-mundrathi/cognitive-resonance-analysis) | 🧠 AI Truth Detection - OpenAI Hackathon 2025 | `Jupyter` |
-
-</details>
 
 ---
 
