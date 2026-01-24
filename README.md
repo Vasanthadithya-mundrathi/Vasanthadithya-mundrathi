@@ -74,7 +74,7 @@ fun_fact: "I speak fluent Python 🐍 and binary 01100001"
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasanthadithya-mundrathi&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Vasanthadithya-mundrathi&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </p>
 
 <!-- Activity Graph -->
